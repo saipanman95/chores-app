@@ -1,0 +1,1061 @@
+{
+    "dayOfWeekTasks": [{
+            "day": {
+                "id": "1",
+                "name": "Sunday",
+                "abbr": "Sun"
+            },
+            "personTasks": [{
+                    "person": {
+                        "id": "3",
+                        "name": "Avelina",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "10",
+                            "title": "Wipe counter tops",
+                            "description": "Wipe counter tops and tables; dinning room and kitchen - not onto the floor"
+                        }, {
+                            "id": "4",
+                            "title": "Vacuum Basement Stairs",
+                            "description": "Vacuum stairs leading to basement with dirt devil"
+                        }, {
+                            "id": "5",
+                            "title": "Vacuum Main Stairs",
+                            "description": "Vacuum stairs leading up stairs with dirt devil"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "4",
+                        "name": "Ha'ani",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "1",
+                            "title": "Vacuum main level",
+                            "description": "Vacuum and sweep floors on the main level. This means kitchen, living room, dinning room, entry way, and hall"
+                        }, {
+                            "id": "8",
+                            "title": "Clean Basement bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "1",
+                        "name": "Michael",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "3",
+                            "title": "Vacuum Basement level",
+                            "description": "Vacuum and sweep floors in basement. This includes all rooms and office."
+                        }, {
+                            "id": "6",
+                            "title": "Clean Powder room",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "9",
+                            "title": "Wash Dishes",
+                            "description": "Washing dishes means to empty the dishwasher and then put dirty dished in after they have had all debree removed"
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "2",
+                        "name": "Theodore",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "7",
+                            "title": "Clean Upstairs bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }]
+        }, {
+            "day": {
+                "id": "2",
+                "name": "Monday",
+                "abbr": "Mon"
+            },
+            "personTasks": [{
+                    "person": {
+                        "id": "3",
+                        "name": "Avelina",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "7",
+                            "title": "Clean Upstairs bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "4",
+                            "title": "Vacuum Basement Stairs",
+                            "description": "Vacuum stairs leading to basement with dirt devil"
+                        }, {
+                            "id": "5",
+                            "title": "Vacuum Main Stairs",
+                            "description": "Vacuum stairs leading up stairs with dirt devil"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "4",
+                        "name": "Ha'ani",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "3",
+                            "title": "Vacuum Basement level",
+                            "description": "Vacuum and sweep floors in basement. This includes all rooms and office."
+                        }, {
+                            "id": "6",
+                            "title": "Clean Powder room",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "1",
+                        "name": "Michael",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "1",
+                            "title": "Vacuum main level",
+                            "description": "Vacuum and sweep floors on the main level. This means kitchen, living room, dinning room, entry way, and hall"
+                        }, {
+                            "id": "8",
+                            "title": "Clean Basement bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "2",
+                        "name": "Theodore",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "9",
+                            "title": "Wash Dishes",
+                            "description": "Washing dishes means to empty the dishwasher and then put dirty dished in after they have had all debree removed"
+                        }, {
+                            "id": "10",
+                            "title": "Wipe counter tops",
+                            "description": "Wipe counter tops and tables; dinning room and kitchen - not onto the floor"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }]
+        }, {
+            "day": {
+                "id": "3",
+                "name": "Tuesday",
+                "abbr": "Tue"
+            },
+            "personTasks": [{
+                    "person": {
+                        "id": "3",
+                        "name": "Avelina",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "8",
+                            "title": "Clean Basement bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "4",
+                            "title": "Vacuum Basement Stairs",
+                            "description": "Vacuum stairs leading to basement with dirt devil"
+                        }, {
+                            "id": "5",
+                            "title": "Vacuum Main Stairs",
+                            "description": "Vacuum stairs leading up stairs with dirt devil"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "4",
+                        "name": "Ha'ani",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "9",
+                            "title": "Wash Dishes",
+                            "description": "Washing dishes means to empty the dishwasher and then put dirty dished in after they have had all debree removed"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "1",
+                        "name": "Michael",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "3",
+                            "title": "Vacuum Basement level",
+                            "description": "Vacuum and sweep floors in basement. This includes all rooms and office."
+                        }, {
+                            "id": "7",
+                            "title": "Clean Upstairs bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "10",
+                            "title": "Wipe counter tops",
+                            "description": "Wipe counter tops and tables; dinning room and kitchen - not onto the floor"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "2",
+                        "name": "Theodore",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "6",
+                            "title": "Clean Powder room",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }]
+        }, {
+            "day": {
+                "id": "4",
+                "name": "Wednesday",
+                "abbr": "Wed"
+            },
+            "personTasks": [{
+                    "person": {
+                        "id": "3",
+                        "name": "Avelina",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "6",
+                            "title": "Clean Powder room",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "10",
+                            "title": "Wipe counter tops",
+                            "description": "Wipe counter tops and tables; dinning room and kitchen - not onto the floor"
+                        }, {
+                            "id": "4",
+                            "title": "Vacuum Basement Stairs",
+                            "description": "Vacuum stairs leading to basement with dirt devil"
+                        }, {
+                            "id": "5",
+                            "title": "Vacuum Main Stairs",
+                            "description": "Vacuum stairs leading up stairs with dirt devil"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "4",
+                        "name": "Ha'ani",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "1",
+                            "title": "Vacuum main level",
+                            "description": "Vacuum and sweep floors on the main level. This means kitchen, living room, dinning room, entry way, and hall"
+                        }, {
+                            "id": "7",
+                            "title": "Clean Upstairs bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "1",
+                        "name": "Michael",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "2",
+                        "name": "Theodore",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "3",
+                            "title": "Vacuum Basement level",
+                            "description": "Vacuum and sweep floors in basement. This includes all rooms and office."
+                        }, {
+                            "id": "8",
+                            "title": "Clean Basement bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "9",
+                            "title": "Wash Dishes",
+                            "description": "Washing dishes means to empty the dishwasher and then put dirty dished in after they have had all debree removed"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }]
+        }, {
+            "day": {
+                "id": "5",
+                "name": "Thursday",
+                "abbr": "Thu"
+            },
+            "personTasks": [{
+                    "person": {
+                        "id": "3",
+                        "name": "Avelina",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "9",
+                            "title": "Wash Dishes",
+                            "description": "Washing dishes means to empty the dishwasher and then put dirty dished in after they have had all debree removed"
+                        }, {
+                            "id": "4",
+                            "title": "Vacuum Basement Stairs",
+                            "description": "Vacuum stairs leading to basement with dirt devil"
+                        }, {
+                            "id": "5",
+                            "title": "Vacuum Main Stairs",
+                            "description": "Vacuum stairs leading up stairs with dirt devil"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "4",
+                        "name": "Ha'ani",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "3",
+                            "title": "Vacuum Basement level",
+                            "description": "Vacuum and sweep floors in basement. This includes all rooms and office."
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "1",
+                        "name": "Michael",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "1",
+                            "title": "Vacuum main level",
+                            "description": "Vacuum and sweep floors on the main level. This means kitchen, living room, dinning room, entry way, and hall"
+                        }, {
+                            "id": "6",
+                            "title": "Clean Powder room",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "8",
+                            "title": "Clean Basement bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "10",
+                            "title": "Wipe counter tops",
+                            "description": "Wipe counter tops and tables; dinning room and kitchen - not onto the floor"
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "2",
+                        "name": "Theodore",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "1",
+                            "title": "Vacuum main level",
+                            "description": "Vacuum and sweep floors on the main level. This means kitchen, living room, dinning room, entry way, and hall"
+                        }, {
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "7",
+                            "title": "Clean Upstairs bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }]
+        }, {
+            "day": {
+                "id": "6",
+                "name": "Friday",
+                "abbr": "Fri"
+            },
+            "personTasks": [{
+                    "person": {
+                        "id": "3",
+                        "name": "Avelina",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "7",
+                            "title": "Clean Upstairs bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "4",
+                            "title": "Vacuum Basement Stairs",
+                            "description": "Vacuum stairs leading to basement with dirt devil"
+                        }, {
+                            "id": "5",
+                            "title": "Vacuum Main Stairs",
+                            "description": "Vacuum stairs leading up stairs with dirt devil"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "4",
+                        "name": "Ha'ani",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "6",
+                            "title": "Clean Powder room",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "8",
+                            "title": "Clean Basement bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "1",
+                        "name": "Michael",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "9",
+                            "title": "Wash Dishes",
+                            "description": "Washing dishes means to empty the dishwasher and then put dirty dished in after they have had all debree removed"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }]
+                }, {
+                    "person": {
+                        "id": "2",
+                        "name": "Theodore",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "1",
+                            "title": "Vacuum main level",
+                            "description": "Vacuum and sweep floors on the main level. This means kitchen, living room, dinning room, entry way, and hall"
+                        }, {
+                            "id": "3",
+                            "title": "Vacuum Basement level",
+                            "description": "Vacuum and sweep floors in basement. This includes all rooms and office."
+                        }, {
+                            "id": "10",
+                            "title": "Wipe counter tops",
+                            "description": "Wipe counter tops and tables; dinning room and kitchen - not onto the floor"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }]
+        }, {
+            "day": {
+                "id": "7",
+                "name": "Saturday",
+                "abbr": "Sat"
+            },
+            "personTasks": [{
+                    "person": {
+                        "id": "3",
+                        "name": "Avelina",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "6",
+                            "title": "Clean Powder room",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "7",
+                            "title": "Clean Upstairs bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "8",
+                            "title": "Clean Basement bathroom",
+                            "description": "Clean powder room on main level.  This includes toilet, floors, sink and mirror; empty trash as well."
+                        }, {
+                            "id": "10",
+                            "title": "Wipe counter tops",
+                            "description": "Wipe counter tops and tables; dinning room and kitchen - not onto the floor"
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "4",
+                            "title": "Vacuum Basement Stairs",
+                            "description": "Vacuum stairs leading to basement with dirt devil"
+                        }, {
+                            "id": "5",
+                            "title": "Vacuum Main Stairs",
+                            "description": "Vacuum stairs leading up stairs with dirt devil"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "4",
+                        "name": "Ha'ani",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "9",
+                            "title": "Wash Dishes",
+                            "description": "Washing dishes means to empty the dishwasher and then put dirty dished in after they have had all debree removed"
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "1",
+                        "name": "Michael",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "1",
+                            "title": "Vacuum main level",
+                            "description": "Vacuum and sweep floors on the main level. This means kitchen, living room, dinning room, entry way, and hall"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }, {
+                    "person": {
+                        "id": "2",
+                        "name": "Theodore",
+                        "group": {
+                            "identifier": "1",
+                            "description": "rodgers clan",
+                            "createdAt": 1505909865122
+                        }
+                    },
+                    "tasks": [{
+                            "id": "2",
+                            "title": "Vacuum Upstairs level",
+                            "description": "Vacuum and sweep floors upstairs where bedrooms are located. This includes all bedrooms and hallway. Pickup clutter to complete this task"
+                        }, {
+                            "id": "3",
+                            "title": "Vacuum Basement level",
+                            "description": "Vacuum and sweep floors in basement. This includes all rooms and office."
+                        }, {
+                            "id": "11",
+                            "title": "Washing Laundry",
+                            "description": "Take dirty laundry by lights/darks and put in the washing machine.  Do not overload. Put clean clothes in dryer.  Put dry clothes on bed to be folded"
+                        }, {
+                            "id": "12",
+                            "title": "Folding Laundry",
+                            "description": "Take dry clothes on bed, fold and separate into piles. Please take your pile"
+                        }, {
+                            "id": "13",
+                            "title": "Putting Laundry Away",
+                            "description": "Take your folded clothes and put them away neatly"
+                        }, {
+                            "id": "14",
+                            "title": "Clean Your Room",
+                            "description": "This means make your bed, pick up dirty laundry and towels, paper, wrappers, toys, etc..."
+                        }, {
+                            "id": "15",
+                            "title": "Empty Kitchen Trash",
+                            "description": "Empty Kitchen trash, and put new bag in trash can"
+                        }]
+                }]
+        }],
+    "group": {
+        "identifier": "1",
+        "description": "rodgers clan",
+        "createdAt": 1505909865122
+    }
+}
